@@ -37,7 +37,7 @@ Dimensionality Reduction (KNN only):
 PCA was applied to reduce feature dimensions while retaining 95% of variance.
 
 # Models Used
-1. Decision Tree Classifier
+# 1. Decision Tree Classifier
 Parameters:
 max_depth=9
 min_samples_split=10
